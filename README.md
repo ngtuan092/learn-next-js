@@ -81,10 +81,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-- Navigation trong NextJS
-    + Navigate between pages with next/link
+### Navigation trong NextJS
+- Navigate between pages with next/link
     <link href='/about'>
         <a>About us</a>
     </link>
 
-    + 
+- 
